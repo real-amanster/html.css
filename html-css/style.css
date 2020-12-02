@@ -1,0 +1,129 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(44, 43, 43, 0.644);
+    margin: 0;
+    padding:0;
+}
+
+
+
+header{
+    background-color:rgb(3, 3, 3);
+    color:aqua;
+  width:100%;
+    text-align:center;
+    height:600px;
+    font-size:40px;
+
+   
+
+}
+form{
+  
+    margin:5px;
+}
+
+ul{
+    margin: 0;
+    padding:0;
+    list-style: none;
+    text-align: center;
+}
+li{
+  
+    display:inline-block;
+    margin:5px 5px 5px;
+    
+   
+}
+
+  nav{
+     margin:0px;
+     padding:0px;
+    
+  }
+
+    .blog {
+        border-style:solid;
+       border-color:black;
+        display:inline-block;
+  
+       }
+       img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .test{
+        width:300px;
+        height:300px;
+       
+    }
+    div{
+        margin:20px;
+    }
+       
+        
+    
+      
+  
+#home{
+    font-size: 100px;
+}
+#about{
+    text-align:center;
+    font-size:40px;
+}
+p{
+    font-size:50px;
+}
+
+section{
+    color: rgb(69, 69, 75);
+    font-size: 25px;
+    background-color: rgb(167, 173, 179);
+    padding:20px;
+    ;
+}
+
+div.footer{
+   padding:15px;
+    display:inline;
+    width:100%;
+    
+    
+    
+}
+header .mobile{
+    display:none;
+}
+button{
+    border-radius: 3px;
+    background-color: red;
+    height:100px;
+    width:100px;
+}
+a{
+    text-decoration: none;
+    color:gray;
+    
+}
+
+footer{
+    background-color:rgb(70, 68, 68);
+    padding:30px 20px;
+}
+
+button{
+    background-color:goldenrod;
+    padding:0;
+    margin:0;
+    border-radius: 8px;
+    height:30px;
+    width:20x
+}
+
+
+    
+    
+    
+ 
